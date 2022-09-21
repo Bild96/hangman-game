@@ -6,6 +6,7 @@ Play Hangman for free online and test your vocabulary by guessing letters one at
 
 ## Live Demo
 - https://bafkreiggvz7geefkdwqvvr3ckvkfwvlf3b2drc5xfcrbek7yntlccroe2i.ipfs.nftstorage.link/
+- https://fg3n672l6q5vgolmfgv363hp37nqobcis7se0pv65nogtelhnoh73c0.siasky.net/
 - https://hangman-web3.surge.sh/
 
 
