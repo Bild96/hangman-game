@@ -9,4 +9,9 @@ Play Hangman for free online and test your vocabulary by guessing letters one at
 - https://fg3n672l6q5vgolmfgv363hp37nqobcis7se0pv65nogtelhnoh73c0.siasky.net/
 - https://hangman-web3.surge.sh/
 
+## IPFS
+
+![ipfs](https://user-images.githubusercontent.com/52472445/199333353-82c93ee8-74d6-4d1f-a6c1-76425c1a5a75.svg)
+
+
 
